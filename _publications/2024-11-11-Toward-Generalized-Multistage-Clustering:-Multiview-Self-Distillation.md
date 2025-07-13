@@ -9,6 +9,7 @@ venue: 'TNNLS'
 thumbnail: "./images/distilMVC.png"
 codeurl: "https://github.com/JiataiWang/DistilMVC"
 paperurl: 'https://github.com/JiataiWang/JiataiWang.github.io/blob/master/files/Toward_Generalized_Multistage_Clustering_Multiview_Self-Distillation.pdf'
+bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:GQghOmDLUjcJ:scholar.google.com/&output=citation&scisdr=CgLoJpVAENfwq7DcvQg:AAZF9b8AAAAAaHPapQhfIIRiqQ4h_Su4IY9iAeM&scisig=AAZF9b8AAAAAaHPapXvh6MghYpNj3dZkDLxSX2s&scisf=4&ct=citation&cd=-1&hl=en'
 citation: 'Wang J, Xu Z, Wang X, Li T. Toward Generalized Multistage Clustering: Multiview Self-Distillation. IEEE Transactions on Neural Networks and Learning Systems. 2024 Nov 11.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

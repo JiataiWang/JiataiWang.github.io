@@ -9,6 +9,9 @@ redirect_from:
 
 {% include toc %}
 
+Are you interested in pursuing graduate studies in computer science? I am currently recruiting Master’s and Ph.D. students to join my research group. If you’d like to work on topics such as multimodal entity discovery, RAG pipelines, or video understanding, please feel free to contact me at:
+I look forward to hearing from you!
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
