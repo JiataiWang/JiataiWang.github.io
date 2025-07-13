@@ -16,7 +16,7 @@ Languages
 
 Education
 ======
-* <img src="/images/nku.png" alt="NKU Logo" width="28" style="vertical-align:middle;" /> Ph.D in Computer Science, NKU, 2024-2028 (expected).
+* <img src="/images/nku.png" alt="NKU Logo" width="28" style="vertical-align:middle;" /> Ph.D in Computer Technology, NKU, 2024-2028 (expected).
 * <img src="/images/imut.png" alt="IMUT Logo" width="30" style="vertical-align:middle;" /> B.S. and M.S. in Software Engineering, IMUT, 2017-2024.
 
 Service
