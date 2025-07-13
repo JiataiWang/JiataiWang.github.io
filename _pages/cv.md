@@ -9,56 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
+Languages
+======
+* Chinese (Native)
+* English (IELTS 6.5)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* <img src="imut.png" alt="NKU Logo" width="24" style="vertical-align:middle;" /> Ph.D in Computer Science, NKU, 2024-2028 (expected).
+* <img src="nku.png" alt="IMUT Logo" width="24" style="vertical-align:middle;" /> B.S. and M.S. in Software Engineering, IMUT, 2017-2024.
+
+Service
+======
+* TJSC Reviewer
+* OpenRAG Project Contributor
+* Transformers Project Contributor
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* <img src="HaiheLab.png" alt="NKU Logo" width="24" style="vertical-align:middle;" /> 12/2023-Now: Internship at Haihe Lab of ITAI, Tianjin.
+  * Medical Image Quality Control with RAG: Designed and deployed a RAG pipeline on Ascend 910, enabling multimodal retrieval (CLIP + GLM-Vision) for medical image quality control. Implemented data processing, RAG optimization, and case demonstrations to assist in automated quality assessment and recommendations.
+  * AI-Powered Vehicle Damage Assessment: Developed an intelligent vehicle damage assessment system for component recognition and cost estimation. Designed the solution, processed training data, optimized the damage prediction algorithm, and enhanced de-identification software, improving accuracy and deployment efficiency.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* <img src="minglue.png" alt="NKU Logo" width="24" style="vertical-align:middle;" /> 06/2023: Internship at Mininglamp Technology, Beijing.
+  * Built a video annotation system for multimodal model training, optimizing BLIP and Whisper algorithms.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* <img src="oppo.png" alt="NKU Logo" width="24" style="vertical-align:middle;" /> 03/2023: Internship at OPPO Research, Beijing.
+	* Processed multilingual translation data with advanced filtering techniques.
+	* Improved training data using augmentation methods, boosting BLEU by 1+.
+	* Trained and optimized machine translation models with Fairseq, supporting deployment.
