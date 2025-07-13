@@ -2,9 +2,9 @@
 title: "Self‐supervised multi‐view clustering in computer vision: A survey"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-07-00-Self‐supervised-multi‐view-clustering-in-computer-vision:-A-survey
+permalink: /publication/2024-07-02-Self‐supervised-multi‐view-clustering-in-computer-vision:-A-survey
 excerpt: 'This survey examines the rise of self‐supervised multi‐view clustering—outlining its motivations and advantages, categorizing common datasets and data challenges, reviewing representation‐learning and self‐supervised methods with application examples, and highlighting open research problems for future exploration.'
-date: 2024-09-00
+date: 2024-07-02
 venue: 'IET Computer Vision'
 thumbnail: "./images/survey_mvc.png"
 paperurl: 'https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/cvi2.12299'
