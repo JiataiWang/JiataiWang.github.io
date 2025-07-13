@@ -2,11 +2,11 @@
 title: "Self‐supervised image clustering from multiple incomplete views via constrastive complementary generation"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-03-Self‐supervised-image-clustering-from-multiple-incomplete-views-via-constrastive-complementary-generation
+permalink: /publication/2023-03-01-Self‐supervised-image-clustering-from-multiple-incomplete-views-via-constrastive-complementary-generation
 excerpt: 'This paper proposes CIMIC‐GAN, a multi‐view image clustering framework that integrates GAN‐based data imputation with dual contrastive learning on both complete and incomplete views to fully exploit complementary and consistent information, significantly enhancing clustering performance under high missing rates.'
-date: 2009-10-01
+date: 2023-03-01
 venue: 'IET Computer Vision'
-thumbnail: "./images/CIMIC-GAN.png
+thumbnail: "./images/cimic-gan.png“
 paperurl: 'https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/cvi2.12147'
 bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:FLY7jHJyoaYJ:scholar.google.com/&output=citation&scisdr=CgLoJpVAENfwq7B2P4M:AAZF9b8AAAAAaHNwJ4NK7BEauM_PVPI-IkUw6SI&scisig=AAZF9b8AAAAAaHNwJ2A26FvusD4MMpZdcP_6aKA&scisf=4&ct=citation&cd=-1&hl=en'
 codeurl: "https://github.com/你的用户名/cimic-gan"
