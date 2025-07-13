@@ -16,8 +16,8 @@ Languages
 
 Education
 ======
-* <img src="/images/imut.png" alt="NKU Logo" width="24" style="vertical-align:middle;" /> Ph.D in Computer Science, NKU, 2024-2028 (expected).
-* <img src="/images/nku.png" alt="IMUT Logo" width="24" style="vertical-align:middle;" /> B.S. and M.S. in Software Engineering, IMUT, 2017-2024.
+* <img src="/images/nku.png" alt="NKU Logo" width="28" style="vertical-align:middle;" /> Ph.D in Computer Science, NKU, 2024-2028 (expected).
+* <img src="/images/imut.png" alt="IMUT Logo" width="38" style="vertical-align:middle;" /> B.S. and M.S. in Software Engineering, IMUT, 2017-2024.
 
 Service
 ======
@@ -27,7 +27,7 @@ Service
 
 Work experience
 ======
-* <img src="/images/HaiheLab.png" alt="NKU Logo" width="24" style="vertical-align:middle;" /> 12/2023-Now: Internship at Haihe Lab of ITAI, Tianjin.
+* <img src="/images/HaiheLab.png" alt="NKU Logo" width="80" style="vertical-align:middle;" /> 12/2023-Now: Internship at Haihe Lab of ITAI, Tianjin.
   * Medical Image Quality Control with RAG: Designed and deployed a RAG pipeline on Ascend 910, enabling multimodal retrieval (CLIP + GLM-Vision) for medical image quality control. Implemented data processing, RAG optimization, and case demonstrations to assist in automated quality assessment and recommendations.
   * AI-Powered Vehicle Damage Assessment: Developed an intelligent vehicle damage assessment system for component recognition and cost estimation. Designed the solution, processed training data, optimized the damage prediction algorithm, and enhanced de-identification software, improving accuracy and deployment efficiency.
 
