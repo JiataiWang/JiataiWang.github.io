@@ -3,7 +3,7 @@ title: "Toward Generalized Multistage Clustering: Multiview Self-Distillation"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-11-11-Toward-Generalized-Multistage-Clustering:-Multiview-Self-Distillation
-excerpt: 'DistilMVC is a multi-stage deep multi-view clustering framework that leverages multi-view self-distillation—using a teacher-student model to distill dark knowledge of pseudo-label distributions—combined with contrastive learning and mutual information maximization across views to correct overconfident pseudo-labels, yielding state-of-the-art clustering performance on real-world datasets.'
+excerpt: 'DistilMVC is a multi-stage deep multi-view clustering framework that leverages multi-view self-distillation—using a teacher-student model to distill dark knowledge of pseudo-label distributions—combined with contrastive learning and mutual information maximization across views to correct overconfident pseudo-labels, yielding state-of-the-art clustering performance on real-world scenario.'
 date: 2024-11-11
 venue: 'TNNLS'
 thumbnail: "./images/distilMVC.png
