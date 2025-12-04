@@ -25,7 +25,7 @@ Research Projects
 * Program Committee Member of AAAI, (***, TPAMI, NeurIPS and **\*). 
 * Contributor of OpenRAG Project
 
-OpenRAG Project
+Open-Source Contributions
 ======
 * Transformers Project Contributor: Fixed the bug with gradient backpropagation.
 * ?
@@ -36,6 +36,8 @@ Product Development
 
 Internships
 ======
+* Improve accuracy 20%
+
 * <img src="/images/HaiheLab.png" alt="NKU Logo" width="82" style="vertical-align:middle;" /> 12/2023-Now: Internship at Haihe Lab of ITAI, Tianjin.
   * Medical Image Quality Control with RAG: Designed and deployed a RAG pipeline on Ascend 910, enabling multimodal retrieval (CLIP + GLM-Vision) for medical image quality control. Implemented data processing, RAG optimization, and case demonstrations to assist in automated quality assessment and recommendations.
   * AI-Powered Vehicle Damage Assessment: Developed an intelligent vehicle damage assessment system for component recognition and cost estimation. Designed the solution, processed training data, optimized the damage prediction algorithm, and enhanced de-identification software, improving accuracy and deployment efficiency.
