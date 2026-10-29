@@ -9,46 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Languages
-======
-* Chinese (Native)
-* English (IELTS 6.5)
-
 Education
 ======
 * <img src="/images/nku.png" alt="NKU Logo" width="28" style="vertical-align:middle;" /> Ph.D in Computer Technology, NKU, 2024-2028 (expected).
 * <img src="/images/imut.png" alt="IMUT Logo" width="30" style="vertical-align:middle;" /> B.S. and M.S. in Software Engineering, IMUT, 2017-2024.
 
-Research Projects
-======
-* Lead Maintainer of ParaX
-* Program Committee Member of AAAI, (***, TPAMI, NeurIPS and **\*). 
-* Contributor of OpenRAG Project
-
-Open-Source Contributions
-======
-* Transformers Project Contributor: Fixed the bug with gradient backpropagation.
-* ?
-
-Product Development
-======
-* APP
-
 Internships
 ======
-* Improve accuracy 20%
-
-* <img src="/images/HaiheLab.png" alt="NKU Logo" width="82" style="vertical-align:middle;" /> 12/2023-Now: Internship at Haihe Lab of ITAI, Tianjin.
-  * Medical Image Quality Control with RAG: Designed and deployed a RAG pipeline on Ascend 910, enabling multimodal retrieval (CLIP + GLM-Vision) for medical image quality control. Implemented data processing, RAG optimization, and case demonstrations to assist in automated quality assessment and recommendations.
-  * AI-Powered Vehicle Damage Assessment: Developed an intelligent vehicle damage assessment system for component recognition and cost estimation. Designed the solution, processed training data, optimized the damage prediction algorithm, and enhanced de-identification software, improving accuracy and deployment efficiency.
-
-* <img src="/images/minglue.png" alt="NKU Logo" width="62" style="vertical-align:middle;" /> 06/2023: Internship at Mininglamp Technology, Beijing.
-  * Built a video annotation system for multimodal model training, optimizing BLIP and Whisper algorithms.
-
-* <img src="/images/oppo.png" alt="NKU Logo" width="55" style="vertical-align:middle;" /> 03/2023: Internship at OPPO Research, Beijing.
-	* Processed multilingual translation data with advanced filtering techniques.
-	* Improved training data using augmentation methods, boosting BLEU by 1+.
-	* Trained and optimized machine translation models with Fairseq, supporting deployment.
+* <img src="/images/HaiheLab.png" alt="Haihe Lab Logo" width="82" style="vertical-align:middle;" />
+* <img src="/images/minglue.png" alt="Mininglamp Logo" width="62" style="vertical-align:middle;" />
+* <img src="/images/oppo.png" alt="OPPO Logo" width="55" style="vertical-align:middle;" />
 
 Work experience
 ======
